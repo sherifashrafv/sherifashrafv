@@ -17,6 +17,13 @@
 
 <h3>My GitHub contributions summary</h3>
 
+const life: sherif = {
+  greet: "Hi 👋, I'm Sherif Ashraf, working as junior Frontend Developer at Velents",
+  bio: Software Developer, [react, vue, react] developer, Guitarist, and autodidact. from Egypt,
+  currentlyLearning: "NextJS, NestJS<nodeJS> and Angular",
+  askMeAbout: "Frontend Technologies",
+  reachMeAt: "sherifaway@gmail.com",
+};
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashrafv&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
