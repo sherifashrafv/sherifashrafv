@@ -17,6 +17,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherif-ashraf" target="_blank">LinkedIn: Sherif Ashraf</a> | 
+  <a href="https://github.com/SherifAshraf" target="_blank">GitHub: SherifAshraf</a> | 
+  <a href="https://twitter.com/Sherif_Ashraf" target="_blank">Twitter: @Sherif_Ashraf</a> | 
+  <a href="mailto:sherifaway@gmail.com">Email: sherifaway@gmail.com</a>
+</p>
+
 <h3>About Me</h3>
 
 ```typescript
@@ -27,10 +35,3 @@ const life: sherif = {
   askMeAbout: "Frontend Technologies, JavaScript Frameworks, Tailwind CSS, Web Performance Optimization",
   reachMeAt: "sherifaway@gmail.com",
 };
-
-### Key Additions:
-- Added your experience with **Vue.js**, **Nuxt.js**, **Next.js**, and **Tailwind CSS** in the technology stack.
-- Added a section called **"My Skills and Experience"** where you can showcase your skills and experience in more detail.
-- Enhanced the **"About Me"** section with more personal information and skills you are currently learning.
-
-This way, anyone who views your GitHub README can easily see your expertise and the technologies you work with. You can also keep updating it with new skills and projects over time.
