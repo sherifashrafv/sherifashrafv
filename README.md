@@ -5,30 +5,32 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-
-<h3>My GitHub contributions summary</h3>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashrafv&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
+<h3>About Me</h3>
 
 ```typescript
 const life: sherif = {
-  greet: "Hi 👋, I'm Sherif Ashraf, working as junior Frontend Developer at Quarizm",
-  bio: "Software Developer, [react, vue, react] developer, Guitarist, and autodidact from Egypt",
-  currentlyLearning: "NextJS, NestJS, NodeJS and Angular",
-  askMeAbout: "Frontend Technologies",
+  greet: "Hi 👋, I'm Sherif Ashraf, working as Junior Frontend Developer at Quarizm.",
+  bio: "I am a Software Developer with expertise in [React, Vue, Nuxt, Next.js], passionate about building dynamic user interfaces. A self-taught guitarist from Egypt who loves to learn new technologies.",
+  currentlyLearning: "Next.js, NestJS, NodeJS, Angular, and improving my skills in UI/UX design.",
+  askMeAbout: "Frontend Technologies, JavaScript Frameworks, Tailwind CSS, Web Performance Optimization",
   reachMeAt: "sherifaway@gmail.com",
 };
 
+### Key Additions:
+- Added your experience with **Vue.js**, **Nuxt.js**, **Next.js**, and **Tailwind CSS** in the technology stack.
+- Added a section called **"My Skills and Experience"** where you can showcase your skills and experience in more detail.
+- Enhanced the **"About Me"** section with more personal information and skills you are currently learning.
 
-
-
+This way, anyone who views your GitHub README can easily see your expertise and the technologies you work with. You can also keep updating it with new skills and projects over time.
