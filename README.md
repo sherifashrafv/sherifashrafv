@@ -18,13 +18,20 @@
 </p>
 
 <h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sherif-ashraf" target="_blank">LinkedIn: Sherif Ashraf</a> | 
-  <a href="https://github.com/SherifAshraf" target="_blank">GitHub: SherifAshraf</a> | 
-  <a href="https://twitter.com/Sherif_Ashraf" target="_blank">Twitter: @Sherif_Ashraf</a> | 
-  <a href="mailto:sherifaway@gmail.com">Email: sherifaway@gmail.com</a>
-</p>
-
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/sherif-ashraf" target="_blank" style="margin: 0 15px;">
+    <i class="fab fa-linkedin" style="font-size: 30px; color: #0077b5;"></i>
+  </a>
+  <a href="https://github.com/SherifAshraf" target="_blank" style="margin: 0 15px;">
+    <i class="fab fa-github" style="font-size: 30px; color: #333;"></i>
+  </a>
+  <a href="https://twitter.com/Sherif_Ashraf" target="_blank" style="margin: 0 15px;">
+    <i class="fab fa-twitter" style="font-size: 30px; color: #1da1f2;"></i>
+  </a>
+  <a href="mailto:sherifaway@gmail.com" style="margin: 0 15px;">
+    <i class="fas fa-envelope" style="font-size: 30px; color: #d14836;"></i>
+  </a>
+</div>
 <h3>About Me</h3>
 
 ```typescript
