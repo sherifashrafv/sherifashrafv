@@ -17,10 +17,11 @@
 
 <h3>My GitHub contributions summary</h3>
 
+```typescript
 const life: sherif = {
   greet: "Hi 👋, I'm Sherif Ashraf, working as junior Frontend Developer at Velents",
-  bio: Software Developer, [react, vue, react] developer, Guitarist, and autodidact. from Egypt,
-  currentlyLearning: "NextJS, NestJS<nodeJS> and Angular",
+  bio: "Software Developer, [react, vue, react] developer, Guitarist, and autodidact from Egypt",
+  currentlyLearning: "NextJS, NestJS, NodeJS and Angular",
   askMeAbout: "Frontend Technologies",
   reachMeAt: "sherifaway@gmail.com",
 };
