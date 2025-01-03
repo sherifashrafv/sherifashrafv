@@ -19,9 +19,7 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sherif-ashraf" target="_blank">LinkedIn: Sherif Ashraf</a> | 
-  <a href="https://github.com/SherifAshraf" target="_blank">GitHub: SherifAshraf</a> | 
-  <a href="https://twitter.com/Sherif_Ashraf" target="_blank">Twitter: @Sherif_Ashraf</a> | 
+  <a href="[https://www.linkedin.com/in/sherif-ashraf](https://www.linkedin.com/in/sherif-ashraf--68b0801b7/)" target="_blank">LinkedIn: Sherif Ashraf</a> | 
   <a href="mailto:sherifaway@gmail.com">Email: sherifaway@gmail.com</a>
 </p>
 
