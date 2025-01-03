@@ -1,14 +1,8 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-
-<h2 align="center">
-  Technology Stack 
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50" alt="Tech Stack GIF">
-</h2>
-
-<p align="center">
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -23,9 +17,17 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherif-ashraf" target="_blank">LinkedIn: Sherif Ashraf</a> | 
+  <a href="https://github.com/SherifAshraf" target="_blank">GitHub: SherifAshraf</a> | 
+  <a href="https://twitter.com/Sherif_Ashraf" target="_blank">Twitter: @Sherif_Ashraf</a> | 
+  <a href="mailto:sherifaway@gmail.com">Email: sherifaway@gmail.com</a>
+</p>
 
 <h3>About Me</h3>
-<pre>
+
+```typescript
 const life: sherif = {
   greet: "Hi 👋, I'm Sherif Ashraf, working as Junior Frontend Developer at Quarizm.",
   bio: "I am a Software Developer with expertise in [React, Vue, Nuxt, Next.js], passionate about building dynamic user interfaces. A self-taught guitarist from Egypt who loves to learn new technologies.",
@@ -33,4 +35,3 @@ const life: sherif = {
   askMeAbout: "Frontend Technologies, JavaScript Frameworks, Tailwind CSS, Web Performance Optimization",
   reachMeAt: "sherifaway@gmail.com",
 };
-</pre>
