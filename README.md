@@ -22,7 +22,7 @@
 
 ```typescript
 const life: sherif = {
-  greet: "Hi 👋, I'm Sherif Ashraf, working as junior Frontend Developer at Velents",
+  greet: "Hi 👋, I'm Sherif Ashraf, working as junior Frontend Developer at Quarizm",
   bio: "Software Developer, [react, vue, react] developer, Guitarist, and autodidact from Egypt",
   currentlyLearning: "NextJS, NestJS, NodeJS and Angular",
   askMeAbout: "Frontend Technologies",
