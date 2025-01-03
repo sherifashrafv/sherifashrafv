@@ -15,7 +15,10 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+
 <h3>My GitHub contributions summary</h3>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashrafv&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 
 ```typescript
 const life: sherif = {
@@ -26,7 +29,6 @@ const life: sherif = {
   reachMeAt: "sherifaway@gmail.com",
 };
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashrafv&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 
