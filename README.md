@@ -29,7 +29,7 @@
 const life: sherif = {
   greet: "Hi 👋, I'm Sherif Ashraf, working as Junior Frontend Developer at Quarizm.",
   bio: "I am a Software Developer with expertise in [React, Vue, Nuxt, Next.js], passionate about building dynamic user interfaces. A self-taught guitarist from Egypt who loves to learn new technologies.",
-  currentlyLearning: "Next.js, NestJS, NodeJS, Angular, and improving my skills in UI/UX design.",
+  currentlyLearning: "Next.js, NestJS, NodeJS, Nuxt.js , Vue.Js and improving my skills in UI/UX design.",
   askMeAbout: "Frontend Technologies, JavaScript Frameworks, Tailwind CSS, Web Performance Optimization",
   reachMeAt: "sherifaway@gmail.com",
 };
